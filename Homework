@@ -1,0 +1,4 @@
+Implement the ordered and unordered list in your website. 
+ Try to add customize bullets by properly setting the list-style on ul or ol tag whichever you use 
+ Properly set the font-size of list text and apply appropriate margins 
+ If possible try to implement nested list with images or Unicode as bullets
